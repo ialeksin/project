@@ -1,0 +1,4 @@
+a {color: black; font-weight: bold}
+a:hover {color: #ff0000; font-weight: bold; text-decoration: none}
+b {color: #600000; font-size: 16px}
+textarea {resize: none}
